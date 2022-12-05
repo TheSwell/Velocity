@@ -1,0 +1,18 @@
+name: GunGaleCommands
+version: 1.0
+main: ru.gungale.GunGaleSurvival
+api-version: 1.13
+depend:
+  - Vault
+commands:
+  ec:
+  wb:
+  feed:
+  heal:
+  ext:
+  exp:
+  fix:
+  burn:
+  milk:
+  getonline:
+  balance:

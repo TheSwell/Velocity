@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Gungale2">
+    <output-path>$USER_HOME$/Desktop/Minecraft Server 2/plugins</output-path>
+    <root id="archive" name="Gungale.jar">
+      <element id="module-output" name="GunGaleSurvival" />
+    </root>
+  </artifact>
+</component>

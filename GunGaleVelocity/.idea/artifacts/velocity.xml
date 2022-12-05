@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="velocity">
+    <output-path>$USER_HOME$/Desktop/Velocity/plugins</output-path>
+    <root id="archive" name="velocity.jar">
+      <element id="module-output" name="GunGaleVelocity" />
+    </root>
+  </artifact>
+</component>
